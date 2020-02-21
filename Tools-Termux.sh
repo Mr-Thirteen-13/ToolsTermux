@@ -48,17 +48,17 @@ lagi=1
 while [ $lagi -lt 99 ];
 do
 echo ""
-echo  "1.  Nmap${endc}";
+echo  "1.  Nmap ";
 echo  "============================" | lolcat
-echo  "2.  Admin-finder ${endc}";
+echo  "2.  Admin-finder ";
 echo  "============================" | lolcat
-echo  "3.  RED_HAWK ${endc}";
+echo  "3.  RED_HAWK ";
 echo  "============================" | lolcat
-echo  "4   Lazymux ${endc}";
+echo  "4   Lazymux ";
 echo  "============================" | lolcat
-echo  "5.  Tools-X ${endc}";
+echo  "5.  Tools-X ";
 echo  "============================" | lolcat
-echo  "99. Exit ${endc}";
+echo  "99. Exit ";
 echo ""
 echo -e "╭─Tools-Termux" |lolcat
 read -p "╰─ThuanTiggaBellass#" pil;
