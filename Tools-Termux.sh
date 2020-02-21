@@ -1,5 +1,6 @@
 #!/bin/bash
 #version 1.0
+#Author:ThuanTiggaBellass
 
 # Variables
 b='\033[1m'
@@ -47,17 +48,17 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo -e $b "1.  Nmap${endc}";
-echo -e "============================" | lolcat
-echo -e $r "2.  Admin-finder${endc}";
-echo -e "============================" | lolcat
-echo -e $g "3.  RED_HAWK${endc}";
-echo -e "============================" | lolcat
-echo -e $c "4   Lazymux${endc}";
-echo -e "============================" | lolcat
-echo -e $r"5.  Tools-X${endc}";
-echo -e "============================" | lolcat
-echo -e $r "99. Exit${endc}";
+echo  $b "1.  Nmap${endc}";
+echo  "============================" | lolcat
+echo  $r "2.  Admin-finder${endc}";
+echo  "============================" | lolcat
+echo  $g "3.  RED_HAWK${endc}";
+echo  "============================" | lolcat
+echo  $c "4   Lazymux${endc}";
+echo  "============================" | lolcat
+echo  $r"5.  Tools-X${endc}";
+echo  "============================" | lolcat
+echo  $r "99. Exit${endc}";
 echo ""
 echo -e "╭─Tools-Termux" |lolcat
 read -p "╰─ThuanTiggaBellass#" pil;
