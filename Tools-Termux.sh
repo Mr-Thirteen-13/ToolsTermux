@@ -18,7 +18,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet Tools Termux | lolcat
+figlet Thuan Tigga Bellass | lolcat
 
 
 echo  "================================================="
