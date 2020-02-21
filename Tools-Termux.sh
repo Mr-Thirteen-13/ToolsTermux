@@ -57,7 +57,7 @@ echo -e $c "4   Lazymux${endc}";
 echo -e "============================" | lolcat
 echo -e $r"5.  Tools-X${endc}";
 echo -e "============================" | lolcat
-echo -e $r "6. Exit${endc}";
+echo -e $r "99. Exit${endc}";
 echo ""
 echo -e "╭─Tools-Termux" |lolcat
 read -p "╰─ThuanTiggaBellass#" pil;
