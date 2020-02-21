@@ -120,7 +120,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "created by : ThuanTiggaBellass" | lolcat
+99) echo "created by : ThuanTiggaBellass" | lolcat
 exit
 ;;
 
